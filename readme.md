@@ -5,5 +5,5 @@
 
 new branch commit 
 
-changes to the main branch 
+changes to the main branch.
 
